@@ -3,6 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Tony"
   given-names: "Tobin"
+- family-names: "Świetlicka"
+  given-names: "Aleksandra"  
 title: "Sign Language Detection using Mediapipe"
 version: 1
 date-released: 2022-10-18
