@@ -1,9 +1,10 @@
-
-@software{sign_language_interpretor,
-  author = {dr hab. inż. Aleksandra Świetlicka, Tobin Tony},
-  month = {10},
-  title = {{My Research Project}},
-  url = {https://github.com/tonytobin/sign_language_detection},
-  version = {1.0},
-  year = {2022}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tony"
+  given-names: "Tobin"
+title: "Sign Language Detection using Mediapipe"
+version: 1
+doi: 10.5281/zenodo.1234
+date-released: 2022-10-18
+url: "https://github.com/tonytobin/sign_language_detection"
