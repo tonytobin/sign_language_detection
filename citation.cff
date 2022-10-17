@@ -1,9 +1,9 @@
 
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - dr hab. inż. Aleksandra Świetlicka, 
-  Tobin Tony
-title: "My Thesis Project"
-version: 1.0
-date-released: 2022-20-17
+@software{sign_language_interpretor,
+  author = {dr hab. inż. Aleksandra Świetlicka, Tobin Tony},
+  month = {10},
+  title = {{My Research Project}},
+  url = {https://github.com/tonytobin/sign_language_detection},
+  version = {1.0},
+  year = {2022}
+}
